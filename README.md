@@ -1,4 +1,4 @@
-# 스위프트로 코딩테스트 연습
+# 자바스크립트로 코딩테스트 연습
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksruf0512)](https://solved.ac/gksruf0512/)
 
